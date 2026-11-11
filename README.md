@@ -43,7 +43,6 @@ also, you may use our repo2docker offered by mybinder.org, which encapsulate the
 ## Documentation:
 Documentation, including tutorials, are available on:
    -  [![read the docs](https://img.shields.io/badge/read_the-docs-orange)](https://denmune.readthedocs.io/en/latest/?badge=latest)
-   -  [![Read my docs](https://img.shields.io/badge/read_my-docs-green)](https://docs.egy1st.org)
 
 
 
